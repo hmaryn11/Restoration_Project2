@@ -1,0 +1,72 @@
+﻿@* QuestionId and TopicId passed to QuesPage*@
+@* When page pulls up, display background color, topic, point value, question[at top of screen],
+    answers (in random order) in boxes [at bottom of screen] - all info gathered from passed QuestionId*@
+@* ^maybe do that in a div with rounded corners and have background of
+    whole page the same as the dashboard- or just have it be full screen??*@
+@* after an answer button in chosen, highlight the right answers in green and the wrong ones
+    in red and button appears at botton to show details of q/a*@
+@* after the show details button is pressed, redirected to show details page - pass in QuestionId and TopicId*@
+
+
+@{ //create a list of range 1-4 in random order
+    int count = 4; // number of random numbers to generate
+
+    Random rand = new Random();
+    List<int> numList = new List<int>();
+
+    while (numList.Count < count)
+    {
+        int num = rand.Next(1, 5); // generate random number within range
+        if (!numList.Contains(num))
+        {
+            numList.Add(num); // add to list if not already present
+        }
+    }
+}
+@{ 
+    var BGtxtColor = "text-dark";
+    if (ViewBag.Topic.BGColor == "mediumblue" || ViewBag.Topic.BGColor == "orangered")
+    {
+        BGtxtColor = "text-light";
+    }
+
+    var DivtxtColor = "text-dark";
+    if (ViewBag.Topic.DivColor == "mediumblue" || ViewBag.Topic.DivColor == "orangered")
+    {
+        DivtxtColor = "text-light";
+    }
+}
+
+<div class="displayDiv vertEvnSpc @BGtxtColor" style="background-color:@ViewBag.Topic.BGColor">
+    <div class="topicDiv">
+        <h3 class="marginTxtDiv">@ViewBag.Topic.TopicName : @ViewBag.Question.PointValue</h3>
+    </div>
+    <h1>@ViewBag.Question.FullQuestion</h1>
+    <div class="frSqrBtn">
+        @*create a list of random num range(1-4) with no repeats*@
+        @for (int i = 0; i <= 3; i++)
+        {
+            foreach (var answer in ViewBag.Answers)
+            {
+                if (numList[i] == answer.AnswerNum)
+                {
+                    var ansClass = "incorrect";
+                    if (answer.Corr_Wrong == true)
+                    {
+                        ansClass = "correct";
+                    }
+
+                    <button class="@ansClass btn lilbtnheight @DivtxtColor" style="background-color:@ViewBag.Topic.DivColor" onclick="selectAns('@ansClass')">@answer.FullAnswer</button>
+                }
+            }
+        }
+
+    </div>
+    <h3 id="resultTxt"></h3>
+    <form method="post" class="formKiller">
+        <input type="hidden" value="@ViewBag.Question.QuestionId" name="QuestionId" />
+        <button id="moveOn" hidden class="btn btn-light vlilbtnwidth" asp-controller="Home" asp-action="ShowDetails">Continue Forward</button>
+        @*onclick="changeViewed('@ViewBag.Question.QuestionId')"*@
+    </form>
+</div>
+

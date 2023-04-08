@@ -1,0 +1,49 @@
+﻿
+@*@model QuestionsViewModel*@
+
+@* table of buttons*@ 
+@* column names of each topic*@
+@* each column including 100-500 values*@
+@* have reset button at bottum to reset the whole game*@
+@* when button is clicked, go to QuesPage page*@ 
+@* send the QuestionId and TopicId (for BG Color) to QuesPage to know what question and answers to display*@
+@* Upon return to dashboard after QuesPage, display picture (park of picture of Joseph) in place of button*@
+@* When you click the question again (after initial selection - so second time you click on a square in the table) 
+        do not go to question (QuesPage), just return button with number- to reset*@
+@* But then, after if you click the button with number again, the question(QuesPage) will appear again
+    kaya, buttonClick -> to QuesPage BUT pictureClick -> button (stay o dashboard)*@
+@* Once all buttons have been selected, display full picture of Joseph - make sure reset button remains on page*@
+
+
+    <div class="d-flex flex-row">
+        @foreach (var topic in ViewBag.Topics)
+        {
+        <div class="d-flex flex-column colWidth align-items-center mx-2">
+            <h5>@topic.TopicName</h5>
+            @foreach (var question in ViewBag.Questions)
+            {
+                if (question.TopicId == topic.TopicId)
+                {
+                    var disClass = "abled";
+                    if (question.Viewed == true)
+                    {
+                         disClass  = "disabled";
+                    }
+                    <form method="post" class="formKiller">
+                        <input type="hidden" value="@question.QuestionId" name="QuestionId" />
+                        <button type="submit"  id="@question.QuestionId" class="btn btn-lg my-2 w-100 btnHeight @disClass" style="background-color:@topic.BGColor" asp-controller="Home" asp-action="QuesPage">@question.PointValue</button>
+                    </form>
+                }
+            }
+        </div>
+        }
+        <form method="post" class="formKiller">
+            <button type="submit" class="btn btn-primary" asp-controller="Home" asp-action="ResetGame">Reset Game</button>
+        </form>
+    </div>
+
+
+@*@while ( (ViewBag.Question.Viewed == 0).Count != 0)*@
+
+
+

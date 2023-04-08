@@ -1,0 +1,93 @@
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Restoration Project.exe
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Restoration Project.deps.json
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Restoration Project.runtimeconfig.json
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Restoration Project.runtimeconfig.dev.json
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Restoration Project.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Restoration Project.pdb
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Restoration Project.Views.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Restoration Project.Views.pdb
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.csproj.AssemblyReference.cache
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.AssemblyInfoInputs.cache
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.AssemblyInfo.cs
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.csproj.CoreCompileInputs.cache
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.RazorAssemblyInfo.cache
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.RazorAssemblyInfo.cs
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\staticwebassets\Restoration Project.StaticWebAssets.Manifest.cache
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.TagHelpers.input.cache
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.TagHelpers.output.cache
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.RazorCoreGenerate.cache
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Dashboard.cshtml.g.cs
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\QuesPage.cshtml.g.cs
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.RazorTargetAssemblyInfo.cache
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.RazorTargetAssemblyInfo.cs
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.Views.pdb
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.pdb
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.genruntimeconfig.cache
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.csproj.CopyComplete
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowDetails.cshtml.g.cs
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\staticwebassets\Restoration Project.StaticWebAssets.xml
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Restoration Project.styles.css
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\GameCompleted.cshtml.g.cs
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\JeopardyHome.cshtml.g.cs
+C:\Users\Maryn\source\repos\Restoration Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\PointValueKey.cshtml.g.cs

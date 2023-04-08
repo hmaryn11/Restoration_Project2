@@ -1,0 +1,219 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
+
+
+/* My Styles
+--------------------------------------------------- */
+
+.colWidth {
+    width: 20%;
+}
+
+.keyBtnColDim
+{
+    width:10rem;
+}
+
+.keyTxtColDim
+{
+    width:30rem;
+}
+
+.btnHeight{
+    height: 6rem;
+}
+
+.lilbtnheight {
+    height: 5rem;
+    border-radius: 7px;
+}
+
+.vlilbtnwidth {
+    width: 25%;
+    margin: auto;
+    display: grid;
+}
+
+.formKiller{
+    display:contents;
+}
+
+.frSqrBtn{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 10px;
+    grid-row-gap:10px;
+}
+
+/*not being used*/
+.twRecBtn {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-column-gap: 10px;
+}
+
+.vertEvnSpc {
+    display: grid;
+    align-content: space-evenly;
+}
+
+.abled {
+    color: #f8f9fa;
+}
+
+.disabled {
+    opacity: 0.05;
+    pointer-events: none;
+    color:black;
+}
+
+.displayDiv {
+    border-radius: 25px;
+    padding: 20px;
+    height: 35rem;
+    text-align:center;
+}
+
+.smldisplayDiv {
+    border-radius: 17px;
+    padding: 20px;
+    height: auto;
+    text-align: center;
+}
+
+/*not being used*/
+.flexCenter {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+/*not being used*/
+.flexCenter2 {
+    display: flex;
+    align-content: center;
+}
+
+.topicDiv {
+    border-radius: 10px;
+    border: 2px solid #f8f9fa;
+    margin:auto;
+}
+
+.txtBxDiv {
+    border-radius: 10px;
+    border: 2px solid darkgrey;
+    margin: auto;
+}
+
+.marginTxtDiv
+{
+    margin-left:20px;
+    margin-right:20px;
+    margin-top:7px;
+    margin-bottom:10px;
+}
+
+.picDiv
+{
+    width:15rem;
+    height:15rem;
+    margin:auto;
+    border-radius:10px;
+}
+
+.sqrCenterDiv
+{
+    width:55%;
+    margin:auto;
+}
+
+.twInDiv
+{
+    width:75%;
+    margin:auto;
+}
+/*not being used*/
+.picWidth
+{
+    width:30rem;
+}
+
+.JosJeo {
+    color: #1c5b53;
+}
+
+.jeoHome {
+    width:100%;
+    margin:auto;
+}
+
