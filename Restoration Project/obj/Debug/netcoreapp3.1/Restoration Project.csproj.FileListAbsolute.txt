@@ -184,3 +184,4 @@ C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\ne
 C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.dll
 C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.pdb
 C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.genruntimeconfig.cache
+C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Resources.cshtml.g.cs
