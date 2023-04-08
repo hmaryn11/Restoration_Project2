@@ -70,16 +70,16 @@ namespace Restoration_Project.Models
                     TopicId = 1,
                     FullQuestion = "Which family member was Joseph closest to and looked up to the most?",
                     PointValue = 100,
-                    Explanation = "Alvin was described as being 'serious and hardworking, and Joseph loved and admired him immensely.' Alvin was one of the first people to believe Joseph about the visions he had been having and he encouraged Joseph to do all he could to fulfill the will of God.",
+                    Explanation = "Alvin Smith was described as being 'serious and hardworking, and Joseph loved and admired him immensely.' Joseph looked to Alvin for advice and support and Alvin was happy to give it to him. Being one of the first people who believed Joseph’s accounts of his visions, he encouraged Joseph to do all he could to fulfill the will of God.",
                     Viewed = false
                 },
                 new Question
                 {
                     QuestionId = 2,
                     TopicId = 2,
-                    FullQuestion = "T2 100",
+                    FullQuestion = "What level of education did Joseph have when he began translating the Book of Mormon?",
                     PointValue = 100,
-                    Explanation = "Question 2",
+                    Explanation = "The Smith family was stricken with poverty and could not afford the luxury of public education. This was not terribly uncommon for families in similar situations during the early 1800s. Though Joseph had very little formal education, he was able to translate an ancient record in a foreign language in just a few months. It seems that the odds were stacked against him. Therefore, this could only have been done through the gift and power of God. And Joseph did not claim to have translated it in any other way.",
                     Viewed = false
                 },
                 new Question
@@ -116,7 +116,7 @@ namespace Restoration_Project.Models
                     TopicId = 1,
                     FullQuestion = "When Joseph was finally authorized to obtain the plates, who did he take with him?",
                     PointValue = 200,
-                    Explanation = "The angel Moroni originally instructed Joseph to bring Alvin with him to obtain the plates. When Alvin dies, Joseph didn't know who he would bring with him. But, Moroni assured him that he would know who he was to bring when the time was right. Emma became more than his wife, she also became his companion. They worked together as a team and took care of each other in love.",
+                    Explanation = "The angel Moroni originally instructed Joseph to bring Alvin with him to obtain the plates. When Alvin died, Joseph didn't know who he would bring with him. But, Moroni assured him that he would know who he was to bring when the time was right. Throughout their life together, Emma became more than his wife. She also became his companion. They worked together as a team and took care of each other in love. ‘Like Alvin, she was someone who could help him become the man the Lord needed to carry out His work.’ (Saints v.1, p34)",
                     Viewed = false
                 },
                 new Question
@@ -125,7 +125,7 @@ namespace Restoration_Project.Models
                     TopicId = 2,
                     FullQuestion = "What does D&C 135 state that Joseph did for the salvation of men?",
                     PointValue = 200,
-                    Explanation = "D&C 135:3 states 'Joseph Smith, the Prophet and Seer of the Lord, has done more, save Jesus only, for the salvation of men in this world, than any other man that ever lived in it.' When we think of all the blessings that we as members of the church enjoy, we owe most of the restoation of these blessings to Joseph and the work he did on this earth. He helped in the work to make it possible for all men, not only those who are members in this life, to return to God.",
+                    Explanation = "D&C 135:3 reads 'Joseph Smith, the Prophet and Seer of the Lord, has done more, save Jesus only, for the salvation of men in this world, than any other man that ever lived in it.' When we think of all the blessings that we as members of the church enjoy, we owe most of the restoration of these blessings to Joseph and the work he did on this earth. He in large part helped make it possible for all men to return to God.",
                     Viewed = false
                 },
                 new Question
@@ -162,14 +162,14 @@ namespace Restoration_Project.Models
                     TopicId = 1,
                     FullQuestion = "Who influenced Joseph as a young man to do foolish things and got him into trouble at times?",
                     PointValue = 300,
-                    Explanation = "Like most young people, Joseph and his friends cared a lot about worldly wealth and in particular, treasure. They would often search for it together. This desire and focus on getting gain would be a problem for Joseph in the future in fulfilling the Lord's wishes.",
+                    Explanation = "Like most young people, Joseph and his friends cared a lot about worldly wealth and gain. Accounting this time of his life, Joseph wrote ,’I was left to all kinds of temptations; and, mingling with all kinds of society, I frequently fell into many foolish errors, and displayed the weakness of youth.’ (JSH 1:28) This desire and focus on the vanities of the world would prove to be a hindrance for Joseph in the future in fulfilling the Lord's wishes.",
                     Viewed = false
                 },
                 new Question
                 {
                     QuestionId = 12,
                     TopicId = 2,
-                    FullQuestion = "T2 300",
+                    FullQuestion = "While in jail in Richmond, Missouri, Joseph and other church leaders were tied up on the floor listening to their captors mock and speak cruelly against them and their fellow members. What did Joseph do in response to their mockery and filthy language?",
                     PointValue = 300,
                     Explanation = "Question 12",
                     Viewed = false
@@ -206,9 +206,9 @@ namespace Restoration_Project.Models
                 {
                     QuestionId = 16,
                     TopicId = 1,
-                    FullQuestion = "Moroni told Joseph that his name 'should be had for good and evil among all nations, kindreds, and tongues' (JSH 1:33). Who else did Joseph say this prophecy applied to?",
+                    FullQuestion = "Moroni told Joseph that his name 'should be had for good and evil among all nations, kindreds, and tongues' (JSH 1:33). Who else did Joseph say this statement applied to?",
                     PointValue = 400,
-                    Explanation = "People thought that once Joseph was dead, the church would crumble. But thanks to Brigham Young, this was not the case. He made sure that the church thrived and continued with the vigor that Joseph had started it with. Unfortunately, people today, even some members of the church, look to President Young with distaste and distain due to things he did that some perceive as sinful. However, without the work that Brigham Young did for the church, all of the work of Joseph might have been lost. President Young was able to keep the fire of the church burning and we have much to thank him for.",
+                    Explanation = "Due to different controversial things President Brigham was involved in, his name is used to revile the Lord’s church.Unfortunately, even some members of the church look to Brigham Young with distaste and disdain.However, without the things that Brigham Young did for the church, all of the work of Joseph might have been lost. People thought that once Joseph was dead, the church would crumble. It is a common practice in history that in order to silence a religious sect, you take out its leader.This was especially evident in England during the Protestant Reformation. But Brigham Young was not going to let that happen. He made sure that the church thrived and continued with the vigor that Joseph had started it with.",
                     Viewed = false
                 },
                 new Question
@@ -338,7 +338,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 5,
                     QuestionId = 2,
-                    FullAnswer = "T2 100 Q2 1",
+                    FullAnswer = "Equivalent to an elementary level education",
                     Corr_Wrong = true,
                     AnswerNum = 1
                 },
@@ -346,7 +346,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 6,
                     QuestionId = 2,
-                    FullAnswer = "T2 100 Q2 2",
+                    FullAnswer = "Equivalent to a middle school level education",
                     Corr_Wrong = false,
                     AnswerNum = 2
                 },
@@ -354,7 +354,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 7,
                     QuestionId = 2,
-                    FullAnswer = "T2 100 Q2 3",
+                    FullAnswer = "Equivalent to a high school level education",
                     Corr_Wrong = false,
                     AnswerNum = 3
                 },
@@ -362,7 +362,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 8,
                     QuestionId = 2,
-                    FullAnswer = "T2 100 Q2 4",
+                    FullAnswer = "Equivalent to an college level education",
                     Corr_Wrong = false,
                     AnswerNum = 4
                 },
