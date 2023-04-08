@@ -80,7 +80,7 @@ body {
 
 .keyBtnColDim
 {
-    width:10rem;
+    width:12rem;
 }
 
 .keyTxtColDim
@@ -157,10 +157,9 @@ body {
     align-content: center;
 }
 
-/*not being used*/
 .flexCenter2 {
     display: flex;
-    align-content: center;
+    align-items: center;
 }
 
 .topicDiv {
@@ -215,5 +214,11 @@ body {
 .jeoHome {
     width:100%;
     margin:auto;
+}
+.pntValueOuterDiv
+{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
 }
 
