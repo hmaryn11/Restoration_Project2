@@ -252,36 +252,36 @@ namespace Restoration_Project.Models
                 {
                     QuestionId = 21,
                     TopicId = 1,
-                    FullQuestion = "T1 500",
+                    FullQuestion = "Joseph had a loyal friend who was given the promise that his life would only be taken away from him if he chose. This friend chose to give us his life for the church. Who was his friend?",
                     PointValue = 500,
-                    Explanation = "Question 21",
+                    Explanation = "Hyrum stayed by Joseph’s side. He was promised by the Lord that he would not be killed unless he chose to allow himself to die. When he rode off to Carthage with Joseph, Joseph told him to stay because he knew they would likely be killed. But Hyrum decided to go with him, sealing his testimony with his life that he chose to give up.",
                     Viewed = false
                 },
                 new Question
                 {
                     QuestionId = 22,
                     TopicId = 2,
-                    FullQuestion = "T2 500",
+                    FullQuestion = "Application Question: Which miracle of Joseph’s Smith life is most meaningful to you?",
                     PointValue = 500,
-                    Explanation = "Question 22",
+                    Explanation = "There is much we can learn from the life of Joseph Smith and much of his life that we can consider miracles. This could be the translation of the Book of Mormon, the times when his life was spared, a miracle of healing he performed, the miracle of the repentance of Joseph Smith, and more. Which is most impactful to you?",
                     Viewed = false
                 },
                 new Question
                 {
                     QuestionId = 23,
                     TopicId = 3,
-                    FullQuestion = "T3 500",
+                    FullQuestion = "What vision did Sydney and Joseph have in the upstairs room of the Johnson house in 1832?",
                     PointValue = 500,
-                    Explanation = "Question 23",
+                    Explanation = "Earlier, Joseph and Sydney had been contemplating the idea that God is so gracious to us on this earth to give us so many chances, why is it not like that in heaven? In this vision, they saw the three degrees of glory in the heavens, confirming their suspicions regarding God’s mercy. After the vision had finished, Sydney looked exhausted and pale and Joseph looked to him, smiled, and said ‘Sidney is not used to it as I am.’",
                     Viewed = false
                 },
                 new Question
                 {
                     QuestionId = 24,
                     TopicId = 4,
-                    FullQuestion = " T4 500",
+                    FullQuestion = "According to the many second-hand accounts, what happened to Joseph when he hesitated to implement the revelation of plural marriage?",
                     PointValue = 500,
-                    Explanation = "Question 24",
+                    Explanation = "Joseph could see the hurt that could be caused by the practice of plural marriage, so he was hesitant to continue to follow and implement the revelation. And he was right, this was a hard revelation for many people at that time and even now. However, the Lord knew all the good that would come out of it. His purposes were higher and He knew what needed to be done in order to fulfill His plan of happiness. Therefore, when Joseph showed resistance, the Lord was stern with him to make sure he carried out this revelation.",
                     Viewed = false
                 },
                 new Question
@@ -977,7 +977,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 81,
                     QuestionId = 21,
-                    FullAnswer = "T1 500 Q21 1",
+                    FullAnswer = "Hyrum Smith",
                     Corr_Wrong = true,
                     AnswerNum = 1
                 },
@@ -985,7 +985,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 82,
                     QuestionId = 21,
-                    FullAnswer = "T1 500 Q21 2",
+                    FullAnswer = "Sydney Rigdon",
                     Corr_Wrong = false,
                     AnswerNum = 2
                 },
@@ -993,7 +993,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 83,
                     QuestionId = 21,
-                    FullAnswer = "T1 500 Q21 3",
+                    FullAnswer = "John Taylor",
                     Corr_Wrong = false,
                     AnswerNum = 3
                 },
@@ -1001,7 +1001,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 84,
                     QuestionId = 21,
-                    FullAnswer = "T1 500 Q21 4",
+                    FullAnswer = "Joseph Knight",
                     Corr_Wrong = false,
                     AnswerNum = 4
                 },
@@ -1010,7 +1010,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 85,
                     QuestionId = 22,
-                    FullAnswer = "T2 500 Q22 1",
+                    FullAnswer = "Your Answer",
                     Corr_Wrong = true,
                     AnswerNum = 1
                 },
@@ -1018,7 +1018,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 86,
                     QuestionId = 22,
-                    FullAnswer = "T2 500 Q22 2",
+                    FullAnswer = "Prof Sweat's Answer",
                     Corr_Wrong = false,
                     AnswerNum = 2
                 },
@@ -1026,7 +1026,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 87,
                     QuestionId = 22,
-                    FullAnswer = "T2 500 Q22 3",
+                    FullAnswer = "Your neighbor's answer",
                     Corr_Wrong = false,
                     AnswerNum = 3
                 },
@@ -1034,7 +1034,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 88,
                     QuestionId = 22,
-                    FullAnswer = "T2 500 Q22 4",
+                    FullAnswer = "The person-behind-you's answer",
                     Corr_Wrong = false,
                     AnswerNum = 4
                 },
@@ -1043,7 +1043,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 89,
                     QuestionId = 23,
-                    FullAnswer = "T3 500 Q23 1",
+                    FullAnswer = "A visions of the Plan of Salvation",
                     Corr_Wrong = true,
                     AnswerNum = 1
                 },
@@ -1051,7 +1051,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 90,
                     QuestionId = 23,
-                    FullAnswer = "T3 500 Q23 2",
+                    FullAnswer = "God revealing the high priesthood",
                     Corr_Wrong = false,
                     AnswerNum = 2
                 },
@@ -1059,7 +1059,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 91,
                     QuestionId = 23,
-                    FullAnswer = "T3 500 Q23 3",
+                    FullAnswer = "A vision of how Joseph would die",
                     Corr_Wrong = false,
                     AnswerNum = 3
                 },
@@ -1067,7 +1067,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 92,
                     QuestionId = 23,
-                    FullAnswer = "T3 500 Q23 4",
+                    FullAnswer = "Marvel's Vision",
                     Corr_Wrong = false,
                     AnswerNum = 4
                 },
@@ -1076,7 +1076,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 93,
                     QuestionId = 24,
-                    FullAnswer = "T4 500 Q24 1",
+                    FullAnswer = "An angel appeared to him with a drawn sword to command him to implement the practice",
                     Corr_Wrong = true,
                     AnswerNum = 1
                 },
@@ -1084,7 +1084,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 94,
                     QuestionId = 24,
-                    FullAnswer = "T4 500 Q24 2",
+                    FullAnswer = "Emma was so happy that she gave him a big hug and kiss",
                     Corr_Wrong = false,
                     AnswerNum = 2
                 },
@@ -1092,7 +1092,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 95,
                     QuestionId = 24,
-                    FullAnswer = "T4 500 Q24 3",
+                    FullAnswer = "Emma worked to stop the practice all together",
                     Corr_Wrong = false,
                     AnswerNum = 3
                 },
@@ -1100,7 +1100,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 96,
                     QuestionId = 24,
-                    FullAnswer = "T4 500 Q24 4",
+                    FullAnswer = "The power of revelation was taken away from him for a time",
                     Corr_Wrong = false,
                     AnswerNum = 4
                 },
