@@ -1143,7 +1143,7 @@ namespace Restoration_Project.Migrations
                             TopicId = 4,
                             BGColor = "lightseagreen",
                             DivColor = "orangered",
-                            TopicName = "Joseph's Falacies"
+                            TopicName = "Joseph's Fallacies"
                         },
                         new
                         {

@@ -47,7 +47,7 @@ namespace Restoration_Project.Models
                 new Topic
                 {
                     TopicId = 4,
-                    TopicName = "Joseph's Falacies",
+                    TopicName = "Joseph's Fallacies",
                     BGColor = "lightseagreen",
                     DivColor = "orangered"
                 },

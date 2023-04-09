@@ -8,7 +8,7 @@ using Restoration_Project.Models;
 namespace Restoration_Project.Migrations
 {
     [DbContext(typeof(JosephJeopardyContext))]
-    [Migration("20230409023505_Initial")]
+    [Migration("20230409033321_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -1145,7 +1145,7 @@ namespace Restoration_Project.Migrations
                             TopicId = 4,
                             BGColor = "lightseagreen",
                             DivColor = "orangered",
-                            TopicName = "Joseph's Falacies"
+                            TopicName = "Joseph's Fallacies"
                         },
                         new
                         {

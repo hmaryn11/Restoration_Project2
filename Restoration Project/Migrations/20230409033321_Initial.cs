@@ -84,7 +84,7 @@ namespace Restoration_Project.Migrations
             migrationBuilder.InsertData(
                 table: "Topic",
                 columns: new[] { "TopicId", "BGColor", "DivColor", "TopicName" },
-                values: new object[] { 4, "lightseagreen", "orangered", "Joseph's Falacies" });
+                values: new object[] { 4, "lightseagreen", "orangered", "Joseph's Fallacies" });
 
             migrationBuilder.InsertData(
                 table: "Topic",
