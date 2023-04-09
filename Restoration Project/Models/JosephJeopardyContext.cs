@@ -86,27 +86,27 @@ namespace Restoration_Project.Models
                 {
                     QuestionId = 3,
                     TopicId = 3,
-                    FullQuestion = "T3 100",
+                    FullQuestion = "Who visited Joseph and Oliver Cowdery to confer the Aaronic Priesthood on them and give them the authority to baptize?",
                     PointValue = 100,
-                    Explanation = "Question 3",
+                    Explanation = "In his lifetime, John the Baptist had authority and power from God known as the Aaronic Priesthood. This gave him the authority to baptize, the power of the ministering of angels, and more. Therefore, he was chosen to pass this power and authority on to Joseph and Oliver so that the work of salvation could move forward on this earth.",
                     Viewed = false
                 },
                 new Question
                 {
                     QuestionId = 4,
                     TopicId = 4,
-                    FullQuestion = " T4 100",
+                    FullQuestion = "Joseph records that in his early encounters with God and other heavenly beings, he first had to _____ before receiving any further knowledge or instruction.",
                     PointValue = 100,
-                    Explanation = "Question 4",
+                    Explanation = "Before Joseph was able to receive any guidance from the Lord, he had to be sufficiently humble. This was the case when he first came to God to find the true church, when Moroni visited him to tell him about the plates, when he went to obtain the plates, and countless other times. Just like us, Joseph too had many things to repent of and much refining to go through. However, once he repented, the Lord’s trust was restored in Joseph, and he was again worthy to further the work.",
                     Viewed = false
                 },
                 new Question
                 {
                     QuestionId = 5,
                     TopicId = 5,
-                    FullQuestion = "T5 100",
+                    FullQuestion = "How did the local Methodist preacher respond after Joseph told him about his first vision?",
                     PointValue = 100,
-                    Explanation = "Question 5",
+                    Explanation = "This preacher along with most other people in the community responded with contempt when Joseph told about his vision. They assumed he was a young boy trying to start trouble, or making himself look good, or confuse people, or that he had been possessed by the devil. None of them would believe that God had spoken to a teenage boy in a poor family. But this was the perfect person for God to speak to. He was humble, he was hungry for knowledge, and he was willing to do what it took to gain that knowledge. But the people refused to see this and mocked Joseph relentlessly for it.",
                     Viewed = false
                 },
                 ///////////////////// 200 : Q(6-10)
@@ -134,7 +134,7 @@ namespace Restoration_Project.Models
                     TopicId = 3,
                     FullQuestion = "Joseph was working in the field the day after Moroni’s first visit. On his way home, Joseph collapsed due to exhaustion and was again visited by Moroni. In addition to rehearsing what he said the night before, what else did Moroni tell Joseph this time?",
                     PointValue = 200,
-                    Explanation = "Moroni visited him",
+                    Explanation = "Moroni knew that Joseph’s father was a man of faith and that he would believe him when he told him about this vision. Moroni also knew that Joseph’s father could provide him with reassurance, support, and guidance. And that he did. When Joseph told his father about this vision, he began to weep and told Joseph that “It was a vision from God,” and to “Attend to it.”",
                     Viewed = false
                 },
                 new Question
@@ -143,7 +143,7 @@ namespace Restoration_Project.Models
                     TopicId = 4,
                     FullQuestion = "What was the reason Joseph had to wait 4 years before he could obtain the plates?",
                     PointValue = 200,
-                    Explanation = "Each time that Joseph came in the years before, the Lord knew he wasn't ready to protect the plates and use them only for the sacred purpose the were intended. The 1st time he went to obtain them, he thought of the worldly worth of the plates, was physically shocked, and could not obtain them. The 2nd time, when reaching for the plates, he thought of covering the other items there that might be valueable. He took his eyes off the plates for a second and they disappeared. He was not yet ready to protect the plates. The 3rd time, Joseph had been working as a 'money digger' (similar to a treasure hunter) and Moroni told him to quit this job before he could receive the plates. The fourth year, Joseph had been sufficiently prepared and he could then take the plates. ",
+                    Explanation = "Each time that Joseph came in the years before, the Lord knew he wasn't ready to protect the plates and use them only for the sacred purpose the were intended. The 1st time he went to obtain them, he thought of the worldly worth of the plates, was physically shocked, and could not obtain them. The 2nd time, when reaching for the plates, he thought of covering the other items there that might be valueable. He took his eyes off the plates for a second and they disappeared. He was not yet ready to protect the plates. The 3rd time, Joseph had been working as a 'money digger' (similar to a treasure hunter) and Moroni told him to quit this job before he could receive the plates. The fourth year, Joseph had been sufficiently prepared and he could then take the plates.",
                     Viewed = false
                 },
                 new Question
@@ -171,34 +171,34 @@ namespace Restoration_Project.Models
                     TopicId = 2,
                     FullQuestion = "While in jail in Richmond, Missouri, Joseph and other church leaders were tied up on the floor listening to their captors mock and speak cruelly against them and their fellow members. What did Joseph do in response to their mockery and filthy language?",
                     PointValue = 300,
-                    Explanation = "Question 12",
+                    Explanation = "Despite the fact that Joseph was a prisoner of those that he rebuked, he had had enough of their cruel speech. Parley P. Pratt, who was a fellow prisoner at this time, recorded Joseph’s rebuke. ‘SILENCE, ye fiends of the infernal pit. In the name of Jesus Christ I rebuke you, and command you to be still; I will not live another minute and hear such language. Cease such talk, or you or I die THIS INSTANT!’ This terrified their captors who then hid and begged for his pardon. However, it encouraged the other prisoners as they saw their leader stand as an angel, steadfast and dignified rebuking these men.",
                     Viewed = false
                 },
                 new Question
                 {
                     QuestionId = 13,
                     TopicId = 3,
-                    FullQuestion = "T3 300",
+                    FullQuestion = "Who did Moroni show to Joseph in a vision the first time he found the plates and was rebuked for trying to take them for gain?",
                     PointValue = 300,
-                    Explanation = "Question 13",
+                    Explanation = "Although this vision may seem harsh, this was Moroni’s way of warning Joseph. ‘’Look,’ Moroni commanded. Another vision unfolded before Joseph, and he saw Satan surrounded by his numberless host. ‘All this is shown, the good and the evil, the holy and impure, the glory of God and the power of darkness,’ the angel declared, ‘that you may know hereafter the two powers and never be influenced or overcome by that wicked one.’’ (Saints vol.1, p26) This would prove to be an important lesson for Joseph to learn as Satan would do all he could to stop the work of the Lord.",
                     Viewed = false
                 },
                 new Question
                 {
                     QuestionId = 14,
                     TopicId = 4,
-                    FullQuestion = " T4 300",
+                    FullQuestion = "What happened to Joseph after Martin Harris left with the pages of the translated manuscript?",
                     PointValue = 300,
-                    Explanation = "Question 14",
+                    Explanation = "Saints Vol. 1 records that right after Martin left, even before the pages were lost, Moroni appeared to take the interpreting tools away from Joseph. It was of course a tragedy that the pages were lost along with the teachings and story in those pages, but it was more tragic that Joseph had disobeyed God. This was an important lesson for Joseph to learn, but it was also very excruciating time for him, knowing that he had disobeyed and disappointed God.",
                     Viewed = false
                 },
                 new Question
                 {
                     QuestionId = 15,
                     TopicId = 5,
-                    FullQuestion = "T5 300",
+                    FullQuestion = "Julia and Joseph, twin babies of Emma and Joseph, suffered from measles as infants. However, what does Joseph blame for the death of his son (Joseph)?",
                     PointValue = 300,
-                    Explanation = "Question 15",
+                    Explanation = "People in the community and some in the church were so mad at Joseph’s claims that he had seen visions and was receiving extra knowledge from God. They banded together to drag Joseph out of his house in the middle of the night and tar and feather his body. This was a heart wrenching experience for Joseph and Emma. And on top of it, their son died about a week later due to the draft from the door opening when the men dragged him away.",
                     Viewed = false
                 },
                 ///////////////////// 400 : Q(16-20)
@@ -215,36 +215,36 @@ namespace Restoration_Project.Models
                 {
                     QuestionId = 17,
                     TopicId = 2,
-                    FullQuestion = "T2 400",
+                    FullQuestion = "The majority of the Book of Mormon was translated in the span of how many months?",
                     PointValue = 400,
-                    Explanation = "Question 17",
+                    Explanation = "Joseph and his various scribes experienced a lot of difficulties in trying to translate the Book of Mormon. Because of this, they were forced to hide the plates, translate sporadically, and translate quickly to get it completed and to protect the plates. Although it was about two years from the time Joseph received the plates to when they were finished being translated, the majority of this translation was done from April 1829 to June 1829. As Joseph declared, the only way this was possible, is through the power and gift of God.",
                     Viewed = false
                 },
                 new Question
                 {
                     QuestionId = 18,
                     TopicId = 3,
-                    FullQuestion = "T3 400",
+                    FullQuestion = "What had to happen before Joseph Smith, David Whitmer, Martin Harris, and Oliver Cowdery (the 3 witnesses) were shown the vision of the plates?",
                     PointValue = 400,
-                    Explanation = "Question 18",
+                    Explanation = "After Joseph had chosen who the three witnesses were to be, he took them to the woods to pray to God to reveal the plates. They all prayed fervently, but nothing happened. Then Martin expressed that he felt he was the reason they weren’t receiving an answer, and he left their presence. Once he left, the other three were shown the vision of the plates. Once this vision was over, Joseph left Oliver and David and found Martin praying. He joined him and they too were able to see the same vision.",
                     Viewed = false
                 },
                 new Question
                 {
                     QuestionId = 19,
                     TopicId = 4,
-                    FullQuestion = "T4 400",
+                    FullQuestion = "In addition to the men that had betrayed Joseph and apostatized from the church, who else might Joseph have been speaking about in D&C 121:39? (look up the verse and think of historical context)",
                     PointValue = 400,
-                    Explanation = "Question 19",
+                    Explanation = "This statement in D&C 121:39 was written when Joseph was reflecting on the events of the past months. Many members had apostatized and were now fighting against the church, the Danites and other groups were forcing these people out, Sydney Rigdon had given a speech encouraging such action (the Salt Sermon), and Joseph had lashed out in rage at men that had betrayed him. This verse seems to imply that Joseph was rethinking his own actions and the actions of men he supported (like Sydney) and condeming these actions.",
                     Viewed = false
                 },
                 new Question
                 {
                     QuestionId = 20,
                     TopicId = 5,
-                    FullQuestion = "T5 400",
+                    FullQuestion = "What document did Joseph blame for the resistance of the men who led the mod that eventually killed him? And who wrote/commissioned this document?",
                     PointValue = 400,
-                    Explanation = "Question 20",
+                    Explanation = "Emma was back and forth about the revelation of plural marriage most of her life. In a time when she was contemptuous of it, Emma saw an opportunity to fight against plural marriage. She used her station as president of the Relief Society to convince many women to sign a document saying the practice was adulterous. But this document only gave the enemies of Joseph (who were already mad about the practice of polygamy) fuel. Joseph Smith wrote, ‘I never had any fuss with these men until that Female Relief Society brought out the paper against adulterers and adulteresses.’",
                     Viewed = false
                 },
                 ///////////////////// 500 : Q(21-25)
@@ -288,9 +288,9 @@ namespace Restoration_Project.Models
                 {
                     QuestionId = 25,
                     TopicId = 5,
-                    FullQuestion = "T5 500",
+                    FullQuestion = "Who were the men who testified against Joseph after he was arrested for treason due to the battles between members and state men in Missouri?",
                     PointValue = 500,
-                    Explanation = "Question 25",
+                    Explanation = "This betrayal left Joseph furious. While in prison, he wrote a letter comparing these men to wicked men in the Bible and saying there were “too mean to mention and we had liked to have forgotten them”. And “whose hearts are full of corruption, whose cloak of hypocrisy was not sufficient to shield them or to hold them up in the hour of trouble”. These were men that he had put his full faith and trust in at one point, whom he once called friends. But, the adversary had gotten hold of their hearts and they no longer cared about the work of Lord.",
                     Viewed = false
                 }
             );
@@ -371,7 +371,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 9,
                     QuestionId = 3,
-                    FullAnswer = "T3 100 Q3 1",
+                    FullAnswer = "John the Baptist",
                     Corr_Wrong = true,
                     AnswerNum = 1
                 },
@@ -379,7 +379,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 10,
                     QuestionId = 3,
-                    FullAnswer = "T3 100 Q3 2",
+                    FullAnswer = "Peter, James and John",
                     Corr_Wrong = false,
                     AnswerNum = 2
                 },
@@ -387,7 +387,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 11,
                     QuestionId = 3,
-                    FullAnswer = "T3 100 Q3 3",
+                    FullAnswer = "Elijah",
                     Corr_Wrong = false,
                     AnswerNum = 3
                 },
@@ -395,7 +395,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 12,
                     QuestionId = 3,
-                    FullAnswer = "T3 100 Q3 4",
+                    FullAnswer = "Jesus Christ",
                     Corr_Wrong = false,
                     AnswerNum = 4
                 },
@@ -404,7 +404,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 13,
                     QuestionId = 4,
-                    FullAnswer = "T4 100 Q4 1",
+                    FullAnswer = "Repent",
                     Corr_Wrong = true,
                     AnswerNum = 1
                 },
@@ -412,7 +412,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 14,
                     QuestionId = 4,
-                    FullAnswer = "T4 100 Q4 2",
+                    FullAnswer = "Talk to his father",
                     Corr_Wrong = false,
                     AnswerNum = 2
                 },
@@ -420,7 +420,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 15,
                     QuestionId = 4,
-                    FullAnswer = "T4 100 Q4 3",
+                    FullAnswer = "Go to the woods",
                     Corr_Wrong = false,
                     AnswerNum = 3
                 },
@@ -428,7 +428,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 16,
                     QuestionId = 4,
-                    FullAnswer = "T4 100 Q4 4",
+                    FullAnswer = "Study",
                     Corr_Wrong = false,
                     AnswerNum = 4
                 },
@@ -437,7 +437,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 17,
                     QuestionId = 5,
-                    FullAnswer = "T5 100 Q5 1",
+                    FullAnswer = "THe told him the vision was of the devil",
                     Corr_Wrong = true,
                     AnswerNum = 1
                 },
@@ -445,7 +445,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 18,
                     QuestionId = 5,
-                    FullAnswer = "T5 100 Q5 2",
+                    FullAnswer = "He gave him a hug and told him he was proud of him",
                     Corr_Wrong = false,
                     AnswerNum = 2
                 },
@@ -453,7 +453,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 19,
                     QuestionId = 5,
-                    FullAnswer = "T5 100 Q5 3",
+                    FullAnswer = "He kicked him out of his congregation",
                     Corr_Wrong = false,
                     AnswerNum = 3
                 },
@@ -461,7 +461,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 20,
                     QuestionId = 5,
-                    FullAnswer = "T5 100 Q5 4",
+                    FullAnswer = "He was confused, but continued to listen with respect and curiousity",
                     Corr_Wrong = false,
                     AnswerNum = 4
                 },
@@ -674,7 +674,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 45,
                     QuestionId = 12,
-                    FullAnswer = "T2 300 Q12 1",
+                    FullAnswer = "He stood and rebuked them.",
                     Corr_Wrong = true,
                     AnswerNum = 1
                 },
@@ -682,7 +682,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 46,
                     QuestionId = 12,
-                    FullAnswer = "T2 300 Q12 2",
+                    FullAnswer = "He held his peace and said nothing.",
                     Corr_Wrong = false,
                     AnswerNum = 2
                 },
@@ -690,7 +690,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 47,
                     QuestionId = 12,
-                    FullAnswer = "T2 300 Q12 3",
+                    FullAnswer = "He stood and attacked the men.",
                     Corr_Wrong = false,
                     AnswerNum = 3
                 },
@@ -698,7 +698,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 48,
                     QuestionId = 12,
-                    FullAnswer = "T2 300 Q12 4",
+                    FullAnswer = "He sqeezed Parley Pratt's hand and prayed for deliverance.",
                     Corr_Wrong = false,
                     AnswerNum = 4
                 },
@@ -707,7 +707,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 49,
                     QuestionId = 13,
-                    FullAnswer = "T3 300 Q13 1",
+                    FullAnswer = "Satan and his numberless host",
                     Corr_Wrong = true,
                     AnswerNum = 1
                 },
@@ -715,7 +715,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 50,
                     QuestionId = 13,
-                    FullAnswer = "T3 300 Q13 2",
+                    FullAnswer = "Moroni when he was burying the plates",
                     Corr_Wrong = false,
                     AnswerNum = 2
                 },
@@ -723,7 +723,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 51,
                     QuestionId = 13,
-                    FullAnswer = "T3 300 Q13 3",
+                    FullAnswer = "Jesus Christ and the Father",
                     Corr_Wrong = false,
                     AnswerNum = 3
                 },
@@ -731,7 +731,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 52,
                     QuestionId = 13,
-                    FullAnswer = "T3 300 Q13 4",
+                    FullAnswer = "His future family",
                     Corr_Wrong = false,
                     AnswerNum = 4
                 },
@@ -740,7 +740,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 53,
                     QuestionId = 14,
-                    FullAnswer = "T4 300 Q14 1",
+                    FullAnswer = "Morori appeared and took the interpreting tools away from him",
                     Corr_Wrong = true,
                     AnswerNum = 1
                 },
@@ -748,7 +748,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 54,
                     QuestionId = 14,
-                    FullAnswer = "T4 300 Q14 2",
+                    FullAnswer = "He fainted",
                     Corr_Wrong = false,
                     AnswerNum = 2
                 },
@@ -756,7 +756,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 55,
                     QuestionId = 14,
-                    FullAnswer = "T4 300 Q14 3",
+                    FullAnswer = "Emma told him that the plates would be lost",
                     Corr_Wrong = false,
                     AnswerNum = 3
                 },
@@ -764,7 +764,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 56,
                     QuestionId = 14,
-                    FullAnswer = "T4 300 Q14 4",
+                    FullAnswer = "He was less stressed with less pages to keep track of",
                     Corr_Wrong = false,
                     AnswerNum = 4
                 },
@@ -773,7 +773,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 57,
                     QuestionId = 15,
-                    FullAnswer = "T5 300 Q15 1",
+                    FullAnswer = "The cold air that came into the house when the mob took him to be tarred and feathered",
                     Corr_Wrong = true,
                     AnswerNum = 1
                 },
@@ -781,7 +781,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 58,
                     QuestionId = 15,
-                    FullAnswer = "T5 300 Q15 2",
+                    FullAnswer = "The masacre at the Haun's Mill",
                     Corr_Wrong = false,
                     AnswerNum = 2
                 },
@@ -789,7 +789,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 59,
                     QuestionId = 15,
-                    FullAnswer = "T5 300 Q15 3",
+                    FullAnswer = "The Lord punishing Joseph for his disobedience",
                     Corr_Wrong = false,
                     AnswerNum = 3
                 },
@@ -797,7 +797,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 60,
                     QuestionId = 15,
-                    FullAnswer = "T5 300 Q15 4",
+                    FullAnswer = "The lack of attention Joseph gave him because of his calling",
                     Corr_Wrong = false,
                     AnswerNum = 4
                 },
@@ -842,7 +842,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 65,
                     QuestionId = 17,
-                    FullAnswer = "T2 400 Q17 1",
+                    FullAnswer = "3 months",
                     Corr_Wrong = true,
                     AnswerNum = 1
                 },
@@ -850,7 +850,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 66,
                     QuestionId = 17,
-                    FullAnswer = "T2 400 Q17 2",
+                    FullAnswer = "5 months",
                     Corr_Wrong = false,
                     AnswerNum = 2
                 },
@@ -858,7 +858,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 67,
                     QuestionId = 17,
-                    FullAnswer = "T2 400 Q17 3",
+                    FullAnswer = "18 months",
                     Corr_Wrong = false,
                     AnswerNum = 3
                 },
@@ -866,7 +866,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 68,
                     QuestionId = 17,
-                    FullAnswer = "T2 400 Q17 4",
+                    FullAnswer = "10 months",
                     Corr_Wrong = false,
                     AnswerNum = 4
                 },
@@ -875,7 +875,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 69,
                     QuestionId = 18,
-                    FullAnswer = "T3 400 Q18 1",
+                    FullAnswer = "Martin Harris needed to withdraw himself from the group",
                     Corr_Wrong = true,
                     AnswerNum = 1
                 },
@@ -883,7 +883,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 70,
                     QuestionId = 18,
-                    FullAnswer = "T3 400 Q18 2",
+                    FullAnswer = "They needed to repent of their sins",
                     Corr_Wrong = false,
                     AnswerNum = 2
                 },
@@ -891,7 +891,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 71,
                     QuestionId = 18,
-                    FullAnswer = "T3 400 Q18 3",
+                    FullAnswer = "Joseph needed to describe the plates to them",
                     Corr_Wrong = false,
                     AnswerNum = 3
                 },
@@ -899,7 +899,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 72,
                     QuestionId = 18,
-                    FullAnswer = "T3 400 Q18 4",
+                    FullAnswer = "Oliver needed to sneeze",
                     Corr_Wrong = false,
                     AnswerNum = 4
                 },
@@ -908,7 +908,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 73,
                     QuestionId = 19,
-                    FullAnswer = "T4 400 Q19 1",
+                    FullAnswer = "Himself and Sydney Rigdon",
                     Corr_Wrong = true,
                     AnswerNum = 1
                 },
@@ -916,7 +916,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 74,
                     QuestionId = 19,
-                    FullAnswer = "T4 400 Q19 2",
+                    FullAnswer = "Joseph Smith Sr",
                     Corr_Wrong = false,
                     AnswerNum = 2
                 },
@@ -924,7 +924,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 75,
                     QuestionId = 19,
-                    FullAnswer = "T4 400 Q19 3",
+                    FullAnswer = "Martin Harris",
                     Corr_Wrong = false,
                     AnswerNum = 3
                 },
@@ -932,7 +932,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 76,
                     QuestionId = 19,
-                    FullAnswer = "T4 400 Q19 4",
+                    FullAnswer = "Future Millenials",
                     Corr_Wrong = false,
                     AnswerNum = 4
                 },
@@ -941,7 +941,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 77,
                     QuestionId = 20,
-                    FullAnswer = "T5 400 Q20 1",
+                    FullAnswer = "The 'Voice of Innocence' written by Emma Smith",
                     Corr_Wrong = true,
                     AnswerNum = 1
                 },
@@ -949,7 +949,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 78,
                     QuestionId = 20,
-                    FullAnswer = "T5 400 Q20 2",
+                    FullAnswer = "The apology letter written by Martin Harris",
                     Corr_Wrong = false,
                     AnswerNum = 2
                 },
@@ -957,7 +957,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 79,
                     QuestionId = 20,
-                    FullAnswer = "T5 400 Q20 3",
+                    FullAnswer = "The 'Danite Manifesto' written by Joseph Knight",
                     Corr_Wrong = false,
                     AnswerNum = 3
                 },
@@ -965,7 +965,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 80,
                     QuestionId = 20,
-                    FullAnswer = "T5 400 Q20 4",
+                    FullAnswer = "The second-hand account of Joseph's First Vision written by Orson Hyde",
                     Corr_Wrong = false,
                     AnswerNum = 4
                 },
@@ -1109,7 +1109,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 97,
                     QuestionId = 25,
-                    FullAnswer = "T5 500 Q25 1",
+                    FullAnswer = "Thomas B. Marsh, W.W. Phelps, Orson Hyde, and John Whitmer",
                     Corr_Wrong = true,
                     AnswerNum = 1
                 },
@@ -1117,7 +1117,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 98,
                     QuestionId = 25,
-                    FullAnswer = "T5 500 Q25 2",
+                    FullAnswer = "Oliver Cowdery, John Whitmer, and Martin Harris",
                     Corr_Wrong = false,
                     AnswerNum = 2
                 },
@@ -1125,7 +1125,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 99,
                     QuestionId = 25,
-                    FullAnswer = "T5 500 Q25 3",
+                    FullAnswer = "W.W. Phelps, Oliver Cowdery, Joseph Knight, and John C. Bennett",
                     Corr_Wrong = false,
                     AnswerNum = 3
                 },
@@ -1133,7 +1133,7 @@ namespace Restoration_Project.Models
                 {
                     AnswerId = 100,
                     QuestionId = 25,
-                    FullAnswer = "T5 500 Q25 4",
+                    FullAnswer = "John C. Bennett, Francis M. Higbee, and James Foster",
                     Corr_Wrong = false,
                     AnswerNum = 4
                 }
