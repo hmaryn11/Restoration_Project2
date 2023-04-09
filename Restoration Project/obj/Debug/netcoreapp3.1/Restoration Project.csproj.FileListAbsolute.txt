@@ -159,8 +159,6 @@ C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\ne
 C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.RazorAssemblyInfo.cache
 C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.RazorAssemblyInfo.cs
 C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\staticwebassets\Restoration Project.StaticWebAssets.Manifest.cache
-C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\staticwebassets\Restoration Project.StaticWebAssets.xml
-C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Restoration Project.styles.css
 C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.TagHelpers.input.cache
 C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.TagHelpers.output.cache
 C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.RazorCoreGenerate.cache
@@ -169,7 +167,6 @@ C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\ne
 C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\JeopardyHome.cshtml.g.cs
 C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\PointValueKey.cshtml.g.cs
-C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\QuesPage.cshtml.g.cs
 C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowDetails.cshtml.g.cs
 C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
@@ -185,3 +182,8 @@ C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\ne
 C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.pdb
 C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\Restoration Project.genruntimeconfig.cache
 C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Resources.cshtml.g.cs
+C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\staticwebassets\Restoration Project.StaticWebAssets.Pack.cache
+C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Restoration Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Restoration Project.props
+C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Restoration Project.props
+C:\Users\Maryn\source\repos\Restoration_Project\Restoration Project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Restoration Project.props
